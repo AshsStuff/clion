@@ -5,8 +5,76 @@ Made with Github.
 
 
 Current version:
-3.0
+3.0 Full Ass Build
 
+
+
+
+More soon.
+
+
+
+
+## Developers:
+
+
+
+**Clonn**
+
+
+
+**BluemineCZ**
+
+
+
+**ProDev**
+
+
+
+**TNxD**
+
+
+
+**NotRixxed**
+
+
+
+
+## What we developed?
+
+
+
+We developed stuff as:
+
+
+Exploits
+
+
+
+Working Bot
+
+
+
+IP tracking Software
+
+
+
+
+PC Seizure
+
+
+
+Discord bot
+
+
+
+
+Many websites
+
+
+
+
+VPN software
 
 
 
